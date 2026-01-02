@@ -1,0 +1,10 @@
+Debug/
+x64/
+Release/
+.vs/
+*.user
+*.pdb
+*.obj
+*.suo
+*.opensdf
+*.sdf
